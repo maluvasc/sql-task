@@ -6,7 +6,7 @@ const callback = (err, res) => {
 if(err){
     console.error(err);
 } else {
-    console.log("alright!")
+    console.log("alright!");
 }
 };
 
